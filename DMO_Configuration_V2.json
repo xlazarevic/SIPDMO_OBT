@@ -15,7 +15,7 @@
     "DownloadPath": "https://github.com/xlazarevic/SIPDMO_OBT/edit/main/Launcher/",
     "CurrentVersion": 309,
     "ExeFileName": "Launcher.exe",
-    "RunExeFileName": "GDMO.exe",
+    "RunExeFileName": "QuickLaunch.exe",
     "VersionList": [
       {
         "Version": 304,
