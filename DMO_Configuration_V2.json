@@ -43,7 +43,7 @@
     "DownloadPath": "https://github.com/xlazarevic/SIPDMO_OBT/edit/main/UpdateManager/",
     "CurrentVersion": 6,
     "ExeFileName": "UpdateManager.exe",
-    "RunExeFileName": "DMLauncher.exe",
+    "RunExeFileName": "Launcher.exe",
     "VersionList": [
       {
         "Version": 5,
