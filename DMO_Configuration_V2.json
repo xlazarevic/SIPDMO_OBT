@@ -1,0 +1,184 @@
+{
+  "ServerInfo": {
+    "Maintenance": false,
+    "Message": {
+      "Title": "서비스 점검 시간 입니다",
+      "Msg": "안녕하세요. 디지몬 마스터즈입니다. 더 나은 서비스를 위하여 점검을 실시합니다.\n■ 작업 일자 : 2021년 7월 14일 수요일\n■ 작업 시간 :  오전 11:00 ~ 오후 13:00 (약 2시간)"
+    },
+    "Title": "서비스 점검 시간 입니다"
+  },
+  "PatchInfo": {
+    "DownloadUrl": "https://github.com/xlazarevic/SIPDMO_OBT/UpdatePack/",
+    "MinPatchVersion": 1,
+    "PatchVersion": 1
+  },
+  "LanuncherInfo": {
+    "DownloadPath": "https://github.com/xlazarevic/SIPDMO_OBT/Launcher/",
+    "CurrentVersion": 238,
+    "ExeFileName": "D-Player.exe",
+    "RunExeFileName": "GDMO.exe",
+    "VersionList": [
+      {
+        "Version": 240,
+        "DownloadFile": "Launcher_240.zip"
+      },
+      {
+        "Version": 241,
+        "DownloadFile": "Launcher_241.zip"
+      },
+      {
+        "Version": 242,
+        "DownloadFile": "Launcher_242.zip"
+      },
+      {
+        "Version": 243,
+        "DownloadFile": "Launcher_243.zip"
+      },
+      {
+        "Version": 244,
+        "DownloadFile": "Launcher_244.zip"
+      },
+      {
+        "Version": 245,
+        "DownloadFile": "Launcher_245.zip"
+      },
+      {
+        "Version": 246,
+        "DownloadFile": "Launcher_246.zip"
+      },
+      {
+        "Version": 247,
+        "DownloadFile": "Launcher_247.zip"
+      },
+      {
+        "Version": 248,
+        "DownloadFile": "Launcher_248.zip"
+      },
+      {
+        "Version": 249,
+        "DownloadFile": "Launcher_249.zip"
+      },
+      {
+        "Version": 250,
+        "DownloadFile": "Launcher_250.zip"
+      },
+      {
+        "Version": 251,
+        "DownloadFile": "Launcher_251.zip"
+      }
+    ]
+  },
+  "UMInfo": {
+    "DownloadPath": "http://movegames-cdn.gameking.com/Movegames/431956/DMO/Korea/UpdateManager/",
+    "CurrentVersion": 10,
+    "ExeFileName": "UpdateManager.exe",
+    "RunExeFileName": "D-Player.exe",
+    "VersionList": [
+      {
+        "Version": 6,
+        "DownloadFile": "UM_6.zip"
+      },
+      {
+        "Version": 7,
+        "DownloadFile": "UM_7.zip"
+      },
+      {
+        "Version": 8,
+        "DownloadFile": "UM_8.zip"
+      },
+      {
+        "Version": 9,
+        "DownloadFile": "UM_9.zip"
+      },
+      {
+        "Version": 10,
+        "DownloadFile": "UM_10.zip"
+      }
+    ]
+  },
+  "Redist": {
+    "Execute": "vcredist_x86.exe",
+    "Command": "/install /passive /norestart",
+    "Regstry": [
+      {
+        "Reg": "SOFTWARE\\Microsoft\\VisualStudio\\14.0\\VC\\Runtimes\\X86"
+      },
+      {
+        "Reg": "SOFTWARE\\WOW6432Node\\Microsoft\\VisualStudio\\14.0\\VC\\Runtimes\\X86"
+      }
+    ]
+  },
+  "FullClinetURL": "http://movegames-cdn.gameking.com/Movegames/431956/DMO/Korea/Fullclient_Intaller/",
+  "MainUrl": [
+    {
+      "TypeName": "DMOM",
+      "HomePageUrl": "https://www.digimonmasters.com",
+      "MainPageUrl": "http://www.digimonmasters.com/launcher/GameLauncher.aspx",
+      "BanerUrl": "http://www.digimonmasters.com/launcher/GameLauncherBanner.aspx",
+      "PatchPageUrl": "https://www.digimonmasters.com/news/update.aspx",
+      "GameDownloadUrl": "https://www.digimonmasters.com/down/main.aspx",
+      "ExplorerStartPage": "",
+      "InstallFileName": "MoveGames_KDMO_Installer(1272)c.exe"
+    },
+    {
+      "TypeName": "DIGI",
+      "HomePageUrl": "http://www.digimonmasters.com",
+      "MainPageUrl": "http://www.digimonmasters.com/launcher/GameLauncher.aspx",
+      "BanerUrl": "http://www.digimonmasters.com/launcher/GameLauncherBanner.aspx",
+      "PatchPageUrl": "http://www.digimonmasters.com/news/update.aspx",
+      "GameDownloadUrl": "http://www.digimonmasters.com/down/main.aspx",
+      "ExplorerStartPage": "",
+      "InstallFileName": "MoveGames_KDMO_Installer(1272)c.exe"
+    },
+    {
+      "TypeName": "ZAM",
+      "HomePageUrl": "http://www.digimonmasters.com",
+      "MainPageUrl": "http://www.digimonmasters.com/launcher/GameLauncher.aspx",
+      "BanerUrl": "http://www.digimonmasters.com/launcher/GameLauncherBanner.aspx",
+      "PatchPageUrl": "http://www.digimonmasters.com/news/update.aspx",
+      "GameDownloadUrl": "http://www.digimonmasters.com/down/main.aspx",
+      "ExplorerStartPage": "",
+      "InstallFileName": "MoveGames_KDMO_Installer(1272)c.exe"
+    },
+    {
+      "TypeName": "PNET",
+      "HomePageUrl": "http://game.naver.com/game/mirror.nhn?pno=13667",
+      "MainPageUrl": "http://dm.playnetwork.co.kr/launcher/GameLauncher.aspx",
+      "BanerUrl": "http://dm.playnetwork.co.kr/launcher/GameLauncherBanner.aspx",
+      "PatchPageUrl": "http://dm.playnetwork.co.kr/news/update.aspx",
+      "GameDownloadUrl": "http://dm.playnetwork.co.kr/down/main.aspx",
+      "ExplorerStartPage": "http://www.naver.com",
+      "InstallFileName": "PlayNet_KDMO_Installer(1272)c.exe"
+    },
+    {
+      "TypeName": "PN",
+      "HomePageUrl": "http://game.naver.com/game/mirror.nhn?pno=13667",
+      "MainPageUrl": "http://dm.playnetwork.co.kr/launcher/GameLauncher.aspx",
+      "BanerUrl": "http://dm.playnetwork.co.kr/launcher/GameLauncherBanner.aspx",
+      "PatchPageUrl": "http://dm.playnetwork.co.kr/news/update.aspx",
+      "GameDownloadUrl": "http://dm.playnetwork.co.kr/down/main.aspx",
+      "ExplorerStartPage": "http://www.naver.com",
+      "InstallFileName": "PlayNet_KDMO_Installer(1272)c.exe"
+    },
+    {
+      "TypeName": "MGAME",
+      "HomePageUrl": "http://dgm.mgame.com",
+      "MainPageUrl": "http://dgm.mgame.com/launcher/GameLauncher.aspx",
+      "BanerUrl": "http://dgm.mgame.com/launcher/GameLauncherBanner.aspx",
+      "PatchPageUrl": "http://dgm.mgame.com/news/update.aspx",
+      "GameDownloadUrl": "http://dgm.mgame.com/down/main.aspx",
+      "ExplorerStartPage": "",
+      "InstallFileName": "MGame_KDMO_Installer(1272)c.exe"
+    },
+    {
+      "TypeName": "HG",
+      "HomePageUrl": "http://dm.hangame.com",
+      "MainPageUrl": "http://dm.hangame.com/launcher/GameLauncher.aspx",
+      "BanerUrl": "http://dm.hangame.com/launcher/GameLauncherBanner.aspx",
+      "PatchPageUrl": "http://dm.hangame.com/news/update.aspx",
+      "GameDownloadUrl": "http://dm.hangame.com/down/main.aspx",
+      "ExplorerStartPage": "",
+      "InstallFileName": "HanGames_KDMO_Installer(1272)c.exe"
+    }
+  ]
+}
