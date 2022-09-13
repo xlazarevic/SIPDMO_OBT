@@ -3,7 +3,7 @@
     "Maintenance": false,
     "Message": {
       "Title": "",
-      "Msg": "The server is undergoing inspection or updates.\nConnect to <http://dmo.gameking.com> for more information"
+      "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/6KMwB6UUsD> for more information"
     }
   },
   "PatchInfo": {
@@ -74,10 +74,10 @@
   "MainUrl": [
     {
       "TypeName": "GSP",
-      "HomePageUrl": "http://dmo.gameking.com",
-      "GameDownloadUrl": "http://dmo.gameking.com/download/GameDownload.aspx",
-      "BanerUrl": "http://www.digimonmasters.com/launcher/GameLauncherBanner.aspx",
-      "MainPageUrl": "http://www.digimonmasters.com/launcher/GameLauncher.aspx"
+      "HomePageUrl": "https://discord.gg/6KMwB6UUsD",
+      "GameDownloadUrl": "https://discord.gg/6KMwB6UUsD",
+      "BanerUrl": "",
+      "MainPageUrl": ""
     }
   ]
 }
