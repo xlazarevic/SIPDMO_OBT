@@ -19,7 +19,7 @@
     "VersionList": [
       {
         "Version": 310,
-        "DownloadFile": "Launcher_304.zip"
+        "DownloadFile": "Launcher_310.zip"
       }
     ]
   },
@@ -76,7 +76,8 @@
       "TypeName": "GSP",
       "HomePageUrl": "http://dmo.gameking.com",
       "GameDownloadUrl": "http://dmo.gameking.com/download/GameDownload.aspx",
-      "MainPageUrl": "http://dmo.gameking.com/Main/InGame/LauncherNotice.aspx"
+      "BanerUrl": "http://www.digimonmasters.com/launcher/GameLauncherBanner.aspx",
+      "MainPageUrl": "http://www.digimonmasters.com/launcher/GameLauncher.aspx"
     }
   ]
 }
