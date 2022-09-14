@@ -13,17 +13,13 @@
   },
   "LauncherInfo": {
     "DownloadPath": "http://141.95.109.123/Launcher/",
-    "CurrentVersion": 311,
+    "CurrentVersion": 310,
     "ExeFileName": "Launcher.exe",
     "RunExeFileName": "GDMO.exe",
     "VersionList": [
       {
         "Version": 310,
         "DownloadFile": "Launcher_310.zip"
-      },
-      {
-        "Version": 311,
-        "DownloadFile": "Launcher_311.zip"
       }
     ]
   },
