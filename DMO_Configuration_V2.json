@@ -25,7 +25,7 @@
   },
   "UMInfo": {
     "DownloadPath": "https://github.com/xlazarevic/SIPDMO_OBT/edit/main/UpdateManager/",
-    "CurrentVersion": 8,
+    "CurrentVersion": 6,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "Launcher.exe",
     "VersionList": [
