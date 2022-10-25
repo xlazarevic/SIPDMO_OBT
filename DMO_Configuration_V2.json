@@ -1,6 +1,6 @@
 {
   "ServerInfo": {
-    "Maintenance": true,
+    "Maintenance": false,
     "Message": {
       "Title": "",
       "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/6KMwB6UUsD> for more information"
@@ -9,7 +9,7 @@
   "PatchInfo": {
     "DownloadUrl": "http://51.195.40.78:90/UpdatePack/",
     "MinPatchVersion": 0,
-    "PatchVersion": 16
+    "PatchVersion": 17
   },
   "LauncherInfo": {
     "DownloadPath": "http://141.95.109.123/Launcher/",
