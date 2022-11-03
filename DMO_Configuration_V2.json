@@ -12,7 +12,7 @@
     "PatchVersion": 18
   },
   "LauncherInfo": {
-    "DownloadPath": "http://141.95.109.123/Launcher/",
+    "DownloadPath": "http://51.195.40.78:90/Launcher/",
     "CurrentVersion": 311,
     "ExeFileName": "Launcher.exe",
     "RunExeFileName": "GDMO.exe",
@@ -28,7 +28,7 @@
     ]
   },
   "UMInfo": {
-    "DownloadPath": "http://141.95.109.123/UpdateManager/",
+    "DownloadPath": "http://51.195.40.78:90/UpdateManager/",
     "CurrentVersion": 6,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "Launcher.exe",
