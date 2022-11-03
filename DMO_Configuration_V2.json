@@ -15,7 +15,7 @@
     "DownloadPath": "http://51.195.40.78:90/Launcher/",
     "CurrentVersion": 311,
     "ExeFileName": "Launcher.exe",
-    "RunExeFileName": "GDMO.exe",
+    "RunExeFileName": "SIPDMO.exe",
     "VersionList": [
       {
         "Version": 310,
