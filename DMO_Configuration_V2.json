@@ -29,13 +29,17 @@
   },
   "UMInfo": {
     "DownloadPath": "http://51.195.40.78:90/UpdateManager/",
-    "CurrentVersion": 6,
+    "CurrentVersion": 7,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "Launcher.exe",
     "VersionList": [
       {
         "Version": 6,
         "DownloadFile": "UM_6.zip"
+      },
+      {
+        "Version": 7,
+        "DownloadFile": "UM_7.zip"
       }
     ]
   },
