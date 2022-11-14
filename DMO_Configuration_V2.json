@@ -24,6 +24,10 @@
       {
         "Version": 311,
         "DownloadFile": "Launcher_311.zip"
+      },
+      {
+        "Version": 312,
+        "DownloadFile": "Launcher_312.zip"
       }
     ]
   },
