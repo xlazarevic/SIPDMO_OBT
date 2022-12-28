@@ -7,9 +7,9 @@
     }
   },
   "PatchInfo": {
-    "DownloadUrl": "http://51.195.40.78:90/UpdatePack/",
+    "DownloadUrl": "https://demoralizing-gunfir.000webhostapp.com/",
     "MinPatchVersion": 0,
-    "PatchVersion": 1
+    "PatchVersion": 2
   },
   "LauncherInfo": {
     "DownloadPath": "http://51.195.40.78:90/Launcher/",
