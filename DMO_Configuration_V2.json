@@ -1,6 +1,6 @@
 {
   "ServerInfo": {
-    "Maintenance": false,
+    "Maintenance": true,
     "Message": {
       "Title": "",
       "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/6KMwB6UUsD> for more information"
@@ -9,7 +9,7 @@
   "PatchInfo": {
     "DownloadUrl": "https://demoralizing-gunfir.000webhostapp.com/",
     "MinPatchVersion": 0,
-    "PatchVersion": 4
+    "PatchVersion": 5
   },
   "LauncherInfo": {
     "DownloadPath": "http://51.195.40.78:90/Launcher/",
