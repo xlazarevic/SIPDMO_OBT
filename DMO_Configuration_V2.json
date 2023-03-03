@@ -7,12 +7,12 @@
     }
   },
   "PatchInfo": {
-    "DownloadUrl": "https://demoralizing-gunfir.000webhostapp.com/",
+    "DownloadUrl": "https://raw.githubusercontent.com/xlazarevic/SIPDMO_OBT/main/Patch/",
     "MinPatchVersion": 0,
     "PatchVersion": 5
   },
   "LauncherInfo": {
-    "DownloadPath": "http://51.195.40.78:90/Launcher/",
+    "DownloadPath": "https://raw.githubusercontent.com/xlazarevic/SIPDMO_OBT/main/Launcher/",
     "CurrentVersion": 312,
     "ExeFileName": "Launcher.exe",
     "RunExeFileName": "SIPDMO.exe",
@@ -32,7 +32,7 @@
     ]
   },
   "UMInfo": {
-    "DownloadPath": "http://51.195.40.78:90/UpdateManager/",
+    "DownloadPath": "https://raw.githubusercontent.com/xlazarevic/SIPDMO_OBT/main/UpdateManager/",
     "CurrentVersion": 7,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "Launcher.exe",
