@@ -13,7 +13,7 @@
   },
   "LanuncherInfo": {
     "DownloadPath": "https://raw.githubusercontent.com/xlazarevic/SIPDMO_OBT/main/Launcher/",
-    "CurrentVersion": 312,
+    "CurrentVersion": 313,
     "ExeFileName": "Launcher.exe",
     "RunExeFileName": "SIPDMO.exe",
     "VersionList": [
@@ -28,6 +28,10 @@
       {
         "Version": 312,
         "DownloadFile": "Launcher_312.zip"
+      },
+      {
+        "Version": 313,
+        "DownloadFile": "Launcher_313.zip"
       }
     ]
   },
