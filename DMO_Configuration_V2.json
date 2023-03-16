@@ -11,7 +11,7 @@
     "MinPatchVersion": 0,
     "PatchVersion": 5
   },
-  "LauncherInfo": {
+  "LanuncherInfo": {
     "DownloadPath": "https://raw.githubusercontent.com/xlazarevic/SIPDMO_OBT/main/Launcher/",
     "CurrentVersion": 312,
     "ExeFileName": "Launcher.exe",
