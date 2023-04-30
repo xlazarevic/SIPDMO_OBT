@@ -14,7 +14,7 @@
   "LanuncherInfo": {
     "DownloadPath": "http://51.195.40.78:90/Launcher/",
     "CurrentVersion": 312,
-    "ExeFileName": "Launcher.exe",
+    "ExeFileName": "Launcher_QA.exe",
     "RunExeFileName": "SIPDMO.exe",
     "VersionList": [
       {
