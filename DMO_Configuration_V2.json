@@ -1,15 +1,15 @@
 {
   "ServerInfo": {
-    "Maintenance": false,
+    "Maintenance": true,
     "Message": {
       "Title": "",
       "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/6KMwB6UUsD> for more information"
     }
   },
   "PatchInfo": {
-    "DownloadUrl": "https://raw.githubusercontent.com/xlazarevic/SIPDMO_OBT/main/Patch/",
+    "DownloadUrl": "https://141.95.1.147/patch/",
     "MinPatchVersion": 0,
-    "PatchVersion": 16
+    "PatchVersion": 17
   },
   "LanuncherInfo": {
     "DownloadPath": "https://raw.githubusercontent.com/xlazarevic/SIPDMO_OBT/main/Launcher/",
