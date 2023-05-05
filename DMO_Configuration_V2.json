@@ -13,7 +13,7 @@
   },
   "LanuncherInfo": {
     "DownloadPath": "https://141.95.1.147/launcher/",
-    "CurrentVersion": 313,
+    "CurrentVersion": 314,
     "ExeFileName": "Launcher.exe",
     "RunExeFileName": "SIPDMO.exe",
     "VersionList": [
@@ -32,6 +32,10 @@
       {
         "Version": 313,
         "DownloadFile": "Launcher_313.zip"
+      },
+      {    
+        "Version": 314,
+        "DownloadFile": "Launcher_314.zip"
       }
     ]
   },
