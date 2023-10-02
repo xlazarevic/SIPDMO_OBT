@@ -7,12 +7,12 @@
     }
   },
   "PatchInfo": {
-    "DownloadUrl": "http://cdn.sipdmo.com/cdn/html/digimon/cdn/dmo/Live/UpdatePack",
+    "DownloadUrl": "http://cdn.sipdmo.com/digimon/cdn/dmo/Live/UpdatePack",
     "MinPatchVersion": 0,
     "PatchVersion": 55
   },
   "LanuncherInfo": {
-    "DownloadPath": "http://cdn.sipdmo.com/cdn/html/digimon/cdn/dmo/Live/Launcher",
+    "DownloadPath": "http://cdn.sipdmo.com/digimon/cdn/dmo/Live/Launcher",
     "CurrentVersion": 314,
     "ExeFileName": "Launcher.exe",
     "RunExeFileName": "SIPDMO.exe",
